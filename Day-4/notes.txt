@@ -1,0 +1,30 @@
+# operators :  Oprators in general are used to perform operations on values and variable 
+
+Operands : it is the value on which the operators is applied ...
+
+Types of operators in python 
+a. Arithmetic operators 
+b. comparision operators  relational operators 
+c. logical operators 
+d. bitwise operators 
+e. assignment and arithmetics assignment 
+f. identity operators 
+g. Membership Operators 
+
+
+1. +, -, *, /, %, //, **
+2. > , <, >= , <= , != , == 
+3. logical and , logical not , logical or 
+4. Bitwise AND , OR, XOR, NOT, RSHIFT, LSHIFT
+5. = , +=,-=,*=,/=,//=,%=, **=
+6. is, isnot 
+7. in, not in 
+
+Ternary operator in python 
+syntax [on true] if [expression] else [onfalse]
+
+
+
+
+keywords : keywords in python are reserved words that have special meaning and serve specific purposes in language 
+we have 35 keywords in python 
